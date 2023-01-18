@@ -1,4 +1,4 @@
-# CO2 Emissions_Analysis
+# CO2 Emissions Analysis
 The goal of this project is to thoroughly investigate and understand the current state of carbon emissions across the globe. By utilizing various data analysis techniques such as exploratory data analysis, correlation analysis, and time-series forecasting, the project aims to reveal patterns, trends, and connections between carbon emissions, GDP and population.Specifically , the project will carry out the following:
 
 Explaoratory analyis on emission trends at global, regional and country level
